@@ -2,7 +2,7 @@
 
 int main() {
     BaseDeDatos db;
-    //Ejemplo 2
+    //Ejemplo 3
     int userId = 2;
     int requiredLevel = 2;
 
